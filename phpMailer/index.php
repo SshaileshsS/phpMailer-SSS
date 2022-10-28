@@ -10,7 +10,6 @@
 
 //Import PHPMailer classes into the global namespace
 
-require 'C:\Users\Shailesh.DESKTOP\Desktop\mail\PHPMailerAutoload.php';
 
 // require '../vendor/autoload.php';
 //Create an instance; passing `true` enables exceptions
